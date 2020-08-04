@@ -20,19 +20,16 @@
 <name>ParalellArm1</name>
 
 <parallelGroup>ParallelArmGroup</parallelGroup>
-
-<parallelGroupTipOffset>
-	<x>30.0</x>
+	<parallelGroupTipOffset>
+	<x>60.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
 	<rotx>0.0</rotx>
 	<roty>0.0</roty>
 	<rotz>0.0</rotz>
-	<relativeTo>1</relativeTo>
-
-	<relativeToLink>1</relativeToLink>
-
+	<relativeTo>ParallelArm2</relativeTo>
+	<relativeToLink>2</relativeToLink>
 </parallelGroupTipOffset>
 	<cadEngine>
 		<git>https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git</git>
@@ -237,6 +234,15 @@
 <name>ParallelArm2</name>
 
 <parallelGroup>ParallelArmGroup</parallelGroup>
+	<parallelGroupTipOffset>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>0.0</rotx>
+	<roty>0.0</roty>
+	<rotz>0.0</rotz>
+</parallelGroupTipOffset>
 	<cadEngine>
 		<git>https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git</git>
 		<file>LinkedCadEngine.groovy</file>
