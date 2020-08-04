@@ -21,13 +21,15 @@
 
 <parallelGroup>ParallelArmGroup</parallelGroup>
 	<parallelGroupTipOffset>
-	<x>0.0</x>
+	<x>60.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
 	<rotx>0.0</rotx>
 	<roty>0.0</roty>
 	<rotz>0.0</rotz>
+	<relativeTo>ParallelArm2</relativeTo>
+	<relativeToLink>2</relativeToLink>
 </parallelGroupTipOffset>
 	<cadEngine>
 		<git>https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git</git>
@@ -233,7 +235,7 @@
 
 <parallelGroup>ParallelArmGroup</parallelGroup>
 	<parallelGroupTipOffset>
-	<x>30.0</x>
+	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
