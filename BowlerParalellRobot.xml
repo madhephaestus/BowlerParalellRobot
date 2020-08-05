@@ -17,7 +17,7 @@
 <name>ParallelArm</name>
 <appendage>
 
-<name>ParalellArm1</name>
+<name>ParallelArm1</name>
 
 <parallelGroup>ParallelArmGroup</parallelGroup>
 	<cadEngine>
@@ -232,7 +232,7 @@
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
-	<relativeTo>2</relativeTo>
+	<relativeTo>ParallelArm1</relativeTo>
 
 	<relativeToLink>2</relativeToLink>
 
@@ -449,7 +449,7 @@
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
-	<relativeTo>2</relativeTo>
+	<relativeTo>ParallelArm1</relativeTo>
 
 	<relativeToLink>2</relativeToLink>
 
