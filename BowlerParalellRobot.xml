@@ -32,7 +32,7 @@
 	<name>basePan</name>
 	<deviceName>dyio</deviceName>
 	<type>pidg-link</type>
-	<index>11</index>
+	<index>0</index>
 	<scale>0.6</scale>
 	<upperLimit>255.0</upperLimit>
 	<lowerLimit>0.0</lowerLimit>
@@ -88,7 +88,7 @@
 	<name>baseTilt</name>
 	<deviceName>dyio</deviceName>
 	<type>pidg-link</type>
-	<index>10</index>
+	<index>1</index>
 	<scale>0.6</scale>
 	<upperLimit>255.0</upperLimit>
 	<lowerLimit>0.0</lowerLimit>
@@ -305,7 +305,7 @@
 	<name>baseTilt</name>
 	<deviceName>dyio</deviceName>
 	<type>pidg-link</type>
-	<index>1</index>
+	<index>2</index>
 	<scale>0.6</scale>
 	<upperLimit>255.0</upperLimit>
 	<lowerLimit>0.0</lowerLimit>
